@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @brian-suzuki
-- 🌱 I’m currently learning ...Python Kubernetes
+- 🌱 I’m currently learning ...Python
+- I am interested in Kubernetes
 
 <!---
 brian-suzuki/brian-suzuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
